@@ -1,0 +1,27 @@
+.box {
+  background-color: #e6ccb3;
+  border-radius: 1px;
+  border-style: solid;             color:black;
+}
+ul {
+    padding: 20px 70px 20px 70px;
+} 
+body{
+  font-family: Times New Roman;
+  background-color: #ecd9c6;
+  padding-top: 60px;
+  padding-right: 80px;
+  padding-bottom: 60px;
+  padding-left: 80px;
+  border-style: solid;              color:black;
+  border-width: 100px;
+}
+  .larger-image {
+    align: center;
+    height: 100%;
+    width: 100%;
+  }
+h4{
+  color: black;
+  align: left;
+}
